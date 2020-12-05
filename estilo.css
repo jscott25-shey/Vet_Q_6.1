@@ -117,7 +117,7 @@ html {
   
   
   .texto-encabezado .btn-primary {
-    transform: translateY(220px);
+    transform: translateY(190px);
     margin-top: 1rem; }
   
   .btn-primary {
@@ -545,7 +545,7 @@ html {
 
 
       /**/
-      @media only screen  and  (max-width: 1199px) {
+      @media only screen  and  (max-width: 999px) {
         .bienvenidos-inicio {
             
             height: 80vh;
@@ -571,7 +571,7 @@ html {
             color:#53f190;
           }
           .texto-encabezado .btn-primary {
-            transform: translateY(100px);
+            transform: translateY(20px);
             margin-top: 1rem; }
     }
       /**/
@@ -623,5 +623,6 @@ html {
   
     .tu-mejor-eleccion ul li p {
       font-size: 0.8rem; } }
+  
   
   
